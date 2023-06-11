@@ -1,0 +1,11 @@
+.video{
+    /* background-color: brown; */
+    margin-left: auto;
+    margin-right: auto;
+    /* padding: auto;    */
+    width: 90%;
+    border: 10px;
+    border-color: white;
+    display: flex;
+    justify-content: center;
+}
